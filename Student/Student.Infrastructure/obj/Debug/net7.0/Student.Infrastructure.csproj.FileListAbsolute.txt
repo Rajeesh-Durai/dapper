@@ -1,0 +1,35 @@
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\bin\Debug\net7.0\Student.Infrastructure.deps.json
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\bin\Debug\net7.0\Student.Infrastructure.dll
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\bin\Debug\net7.0\Student.Infrastructure.pdb
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\bin\Debug\net7.0\Student.Application.dll
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\bin\Debug\net7.0\Student.Domain.dll
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\bin\Debug\net7.0\Student.Application.pdb
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\bin\Debug\net7.0\Student.Domain.pdb
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.csproj.AssemblyReference.cache
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.AssemblyInfoInputs.cache
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.AssemblyInfo.cs
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.sourcelink.json
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.csproj.CopyComplete
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.dll
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\obj\Debug\net7.0\refint\Student.Infrastructure.dll
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.pdb
+D:\ht23-team19-repo\src\Student\Student.Infrastructure\obj\Debug\net7.0\ref\Student.Infrastructure.dll
+D:\Visual studio\Dapper\Student\Student.Infrastructure\bin\Debug\net7.0\Student.Infrastructure.deps.json
+D:\Visual studio\Dapper\Student\Student.Infrastructure\bin\Debug\net7.0\Student.Infrastructure.dll
+D:\Visual studio\Dapper\Student\Student.Infrastructure\bin\Debug\net7.0\Student.Infrastructure.pdb
+D:\Visual studio\Dapper\Student\Student.Infrastructure\bin\Debug\net7.0\Student.Application.dll
+D:\Visual studio\Dapper\Student\Student.Infrastructure\bin\Debug\net7.0\Student.Domain.dll
+D:\Visual studio\Dapper\Student\Student.Infrastructure\bin\Debug\net7.0\Student.Application.pdb
+D:\Visual studio\Dapper\Student\Student.Infrastructure\bin\Debug\net7.0\Student.Domain.pdb
+D:\Visual studio\Dapper\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.csproj.AssemblyReference.cache
+D:\Visual studio\Dapper\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\Dapper\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.AssemblyInfoInputs.cache
+D:\Visual studio\Dapper\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.AssemblyInfo.cs
+D:\Visual studio\Dapper\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Visual studio\Dapper\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.csproj.CopyComplete
+D:\Visual studio\Dapper\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.dll
+D:\Visual studio\Dapper\Student\Student.Infrastructure\obj\Debug\net7.0\refint\Student.Infrastructure.dll
+D:\Visual studio\Dapper\Student\Student.Infrastructure\obj\Debug\net7.0\Student.Infrastructure.pdb
+D:\Visual studio\Dapper\Student\Student.Infrastructure\obj\Debug\net7.0\ref\Student.Infrastructure.dll

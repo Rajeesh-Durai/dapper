@@ -1,0 +1,23 @@
+D:\ht23-team19-repo\src\Student\Student.Domain\bin\Debug\net7.0\Student.Domain.deps.json
+D:\ht23-team19-repo\src\Student\Student.Domain\bin\Debug\net7.0\Student.Domain.dll
+D:\ht23-team19-repo\src\Student\Student.Domain\bin\Debug\net7.0\Student.Domain.pdb
+D:\ht23-team19-repo\src\Student\Student.Domain\obj\Debug\net7.0\Student.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ht23-team19-repo\src\Student\Student.Domain\obj\Debug\net7.0\Student.Domain.AssemblyInfoInputs.cache
+D:\ht23-team19-repo\src\Student\Student.Domain\obj\Debug\net7.0\Student.Domain.AssemblyInfo.cs
+D:\ht23-team19-repo\src\Student\Student.Domain\obj\Debug\net7.0\Student.Domain.csproj.CoreCompileInputs.cache
+D:\ht23-team19-repo\src\Student\Student.Domain\obj\Debug\net7.0\Student.Domain.sourcelink.json
+D:\ht23-team19-repo\src\Student\Student.Domain\obj\Debug\net7.0\Student.Domain.dll
+D:\ht23-team19-repo\src\Student\Student.Domain\obj\Debug\net7.0\refint\Student.Domain.dll
+D:\ht23-team19-repo\src\Student\Student.Domain\obj\Debug\net7.0\Student.Domain.pdb
+D:\ht23-team19-repo\src\Student\Student.Domain\obj\Debug\net7.0\ref\Student.Domain.dll
+D:\Visual studio\Dapper\Student\Student.Domain\bin\Debug\net7.0\Student.Domain.deps.json
+D:\Visual studio\Dapper\Student\Student.Domain\bin\Debug\net7.0\Student.Domain.dll
+D:\Visual studio\Dapper\Student\Student.Domain\bin\Debug\net7.0\Student.Domain.pdb
+D:\Visual studio\Dapper\Student\Student.Domain\obj\Debug\net7.0\Student.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\Dapper\Student\Student.Domain\obj\Debug\net7.0\Student.Domain.AssemblyInfoInputs.cache
+D:\Visual studio\Dapper\Student\Student.Domain\obj\Debug\net7.0\Student.Domain.AssemblyInfo.cs
+D:\Visual studio\Dapper\Student\Student.Domain\obj\Debug\net7.0\Student.Domain.csproj.CoreCompileInputs.cache
+D:\Visual studio\Dapper\Student\Student.Domain\obj\Debug\net7.0\Student.Domain.dll
+D:\Visual studio\Dapper\Student\Student.Domain\obj\Debug\net7.0\refint\Student.Domain.dll
+D:\Visual studio\Dapper\Student\Student.Domain\obj\Debug\net7.0\Student.Domain.pdb
+D:\Visual studio\Dapper\Student\Student.Domain\obj\Debug\net7.0\ref\Student.Domain.dll
